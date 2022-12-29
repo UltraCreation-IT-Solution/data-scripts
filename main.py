@@ -2,8 +2,12 @@ import requests
 import json
 
 class AddData:
-    def __init__(self, file_url, action=None) -> None:
-        self.base_url = "http://13.235.152.113"
+    def __init__(self, file_url, action=None, server=False) -> None:
+        if server == True:
+            self.base_url = "http://13.235.152.113"
+        else:
+            self.base_url = "http://localhost:8000"
+
         self.file_url = file_url
         self.status = ""
         self.res = ""
