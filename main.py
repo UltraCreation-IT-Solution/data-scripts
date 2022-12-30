@@ -36,12 +36,10 @@ class AddData:
                 res = requests.request(method="POST", url=self.url, data=object)
                 res_data = json.loads(res.text)
                 final_data.append(res_data)
-                if "msg" in res_data:
-                    self.res = res_data.get("msg")
+                if "access_token" in res_data:
+                    self.res = res_data.get("access_token")
+                    print(self.res)
                     self.status = "User Object Created Successfully!"
-                elif "error_msg" in res_data:
-                    self.res = res_data.get("error_msg")
-                    self.status = "Error has come during request"
                 else:
                     self.res = None
                     self.status = "request is not running"
