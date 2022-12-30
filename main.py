@@ -52,7 +52,7 @@ class AddData:
             file.write(json.dumps(list))
         print("data written Successfully!")
                 
-AddData(file_url="json_file/profile.json", action=1)
+AddData(file_url="json_file/profile.json", action=1, server=True)
 
     
         
