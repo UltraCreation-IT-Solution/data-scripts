@@ -29,14 +29,14 @@ class Create_data:
                     first_name = f_name
                     last_name = surname
                     email = first_name.lower() + last_name.lower() + str(random.randint(100,999)) + "@gamil.com"
-                    self.mobile_no = self.gen_mobile_no()
+                    mobile_no = self.gen_mobile_no()
                     #mobile_no_list.append(self.mobile_no) if self.mobile_no not in mobile_no_list else self.mobile_no
                     password = first_name + "@123"
                     data_dict = {
                         "first_name": first_name,
                         "last_name": last_name,
                         "email": email,
-                        "mobile": self.gen_mobile_no(),
+                        "mobile": mobile_no,
                         "password1": password,
                         "password2": password
                     }
