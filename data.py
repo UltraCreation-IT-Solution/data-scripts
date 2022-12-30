@@ -16,7 +16,7 @@ class Create_data:
     def gen_mobile_no(self):
             mobile_no_list = [] 
             mobile ="+91" + random.choice(["8770","9893","9039","7000","9425","9826","8659"])+str(random.randint(100000,999999))
-            mobile_no_list.append(mobile) if self.mobile not in mobile_no_list else None
+            mobile_no_list.append(mobile) if mobile not in mobile_no_list else None
             return mobile  
                 
     def create_profile_data(self):
