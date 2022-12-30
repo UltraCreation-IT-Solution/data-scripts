@@ -20,7 +20,7 @@ class AddData:
             if action:
                 action_maper = {
                     1: self.create_user_profiles,
-                    # 2: self.create_blogs,
+                    2: self.create_expert_profile,
                     # 3: self.create_services,
                     # 4: self.create_orders
                 }
@@ -75,6 +75,35 @@ class AddData:
 
         except Exception as e:
             print("error has come",str(e))
+    
+    def create_expert_profile(self):
+        self.url = self.base_url + "/experts/"
+        try:
+            for object in  self.data if len(self.data) else print("json is not readble"):
+                body = {
+                        "action": 1,
+                        "level": object["level"],
+                        "is_expert": True,
+                        "about_me": object["about_me"],
+                        "profession": object["profession"]
+
+                    }
+                res = requests.request(method="POST", url=self.url, data=body)
+                if str(res).__contains__("500") == True:
+                    pass
+                else:
+                    res_data = json.loads(res.text)
+                    self.output_list.append(res_data)
+                    print(res_data)
+                    
+                if self.output_file_url:
+                    self.write_json()
+                else:
+                    print("please provide output file url")
+        except Exception as e:
+            print("error has come",str(e))       
+        
+        
     def write_json(self):
         with open(self.output_file_url, "r", encoding="utf-8") as file:
             data = json.loads(file.read())

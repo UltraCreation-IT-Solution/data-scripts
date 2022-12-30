@@ -1,0 +1,402 @@
+[
+    {
+        "technology_name": "Larvel",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 3
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 7
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 6
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 9
+    },
+    {
+        "technology_name": "Larvel",
+        "ratings": 10
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 10
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 7
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 2
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 2
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Larvel",
+        "ratings": 1
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Python",
+        "ratings": 7
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 10
+    },
+    {
+        "technology_name": "Php",
+        "ratings": 9
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 2
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 3
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Larvel",
+        "ratings": 7
+    },
+    {
+        "technology_name": "Python",
+        "ratings": 9
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Php",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Larvel",
+        "ratings": 9
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 6
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 9
+    },
+    {
+        "technology_name": "Php",
+        "ratings": 6
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 3
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 2
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 1
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 6
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 10
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 6
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 2
+    },
+    {
+        "technology_name": "Python",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 8
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 6
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 5
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 10
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 7
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 9
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 10
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 2
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 7
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 10
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 10
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 6
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 3
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Larvel",
+        "ratings": 10
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 6
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 10
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 7
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 1
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 4
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 9
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 3
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 5
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 2
+    },
+    {
+        "technology_name": "Python",
+        "ratings": 2
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 3
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 9
+    },
+    {
+        "technology_name": "Python",
+        "ratings": 9
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 6
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 9
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 2
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 9
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 4
+    },
+    {
+        "technology_name": "Larvel",
+        "ratings": 1
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Php",
+        "ratings": 7
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 7
+    },
+    {
+        "technology_name": "Postgresql",
+        "ratings": 3
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 8
+    },
+    {
+        "technology_name": "HTML",
+        "ratings": 4
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 10
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 10
+    },
+    {
+        "technology_name": "Php",
+        "ratings": 5
+    },
+    {
+        "technology_name": "Javascript",
+        "ratings": 2
+    },
+    {
+        "technology_name": "CSS",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Java",
+        "ratings": 8
+    },
+    {
+        "technology_name": "Python",
+        "ratings": 1
+    },
+    {
+        "technology_name": "OODO",
+        "ratings": 5
+    },
+    {
+        "technology_name": "MYSQL",
+        "ratings": 9
+    }
+]

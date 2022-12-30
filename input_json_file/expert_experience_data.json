@@ -1,0 +1,602 @@
+[
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Feb-2021",
+        "end_date": "5 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Aug-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Jan-2020",
+        "end_date": "10 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Jan-2020",
+        "end_date": "5 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Aug-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-July-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Aug-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Jan-2020",
+        "end_date": "10 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-May-2018",
+        "end_date": "Still Working",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Apr-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Jan-2020",
+        "end_date": "20 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Nov-2021",
+        "end_date": "20 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Nov-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Jan-2020",
+        "end_date": "20 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Mar-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-July-2019",
+        "end_date": "10 Days Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Mar-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Sep-2021",
+        "end_date": "20 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Dec-2019",
+        "end_date": "10 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Sep-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Feb-2021",
+        "end_date": "20 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Dec-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Aug-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Aug-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Sep-2021",
+        "end_date": "1 Month Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Aug-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Feb-2021",
+        "end_date": "5 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Aug-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-May-2018",
+        "end_date": "Still Working",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Nov-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-July-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Feb-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Sep-2021",
+        "end_date": "Still Working",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Mar-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Jan-2020",
+        "end_date": "1 Month Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Dec-2019",
+        "end_date": "5 Days Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Apr-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Aug-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Nov-2021",
+        "end_date": "5 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-July-2019",
+        "end_date": "5 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Sep-2021",
+        "end_date": "5 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Apr-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "Still Working",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Jan-2020",
+        "end_date": "20 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "Still Working",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Sep-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Apr-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-July-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Feb-2021",
+        "end_date": "Still Working",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Mar-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Sep-2021",
+        "end_date": "Still Working",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Sep-2021",
+        "end_date": "20 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-July-2019",
+        "end_date": "Still Working",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Nov-2021",
+        "end_date": "5 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "Still Working",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-July-2019",
+        "end_date": "10 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-July-2019",
+        "end_date": "Still Working",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Feb-2021",
+        "end_date": "1 Month Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Mar-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Aug-2018",
+        "end_date": "Still Working",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Mar-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Mar-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Jan-2020",
+        "end_date": "5 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Nov-2021",
+        "end_date": "1 Month Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Nov-2021",
+        "end_date": "20 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Apr-2018",
+        "end_date": "Still Working",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Nov-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Mar-2018",
+        "end_date": "20 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-May-2018",
+        "end_date": "Still Working",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-July-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Aug-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Nov-2021",
+        "end_date": "1 Month Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Oct-20221-June-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Sep-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Dec-2019",
+        "end_date": "5 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Dazven Software Solutions",
+        "Start_date": "1-Sep-2021",
+        "end_date": "20 Days Notice Period",
+        "designation": "OODO Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Aug-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-Aug-2018",
+        "end_date": "5 Days Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-Nov-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Jan-2020",
+        "end_date": "5 Days Notice Period",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-Dec-2019",
+        "end_date": "5 Days Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Msys Technologies",
+        "Start_date": "1-July-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Sep-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "Agnito Technologies",
+        "Start_date": "1-Nov-2021",
+        "end_date": "1 Month Notice Period",
+        "designation": "Java Developer"
+    },
+    {
+        "company_name": "Google",
+        "Start_date": "1-Feb-2021",
+        "end_date": "10 Days Notice Period",
+        "designation": "Python developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Apr-2018",
+        "end_date": "10 Days Notice Period",
+        "designation": "Larvel Developer"
+    },
+    {
+        "company_name": "CIS",
+        "Start_date": "1-July-2019",
+        "end_date": "1 Month Notice Period",
+        "designation": "Database Developer"
+    },
+    {
+        "company_name": "Netlink Software Solutions",
+        "Start_date": "1-May-2018",
+        "end_date": "Still Working",
+        "designation": "Php Developer"
+    },
+    {
+        "company_name": "VCOSMOS",
+        "Start_date": "1-Aug-2018",
+        "end_date": "1 Month Notice Period",
+        "designation": "Tester"
+    },
+    {
+        "company_name": "Softprodigy Solutions",
+        "Start_date": "1-Nov-2021",
+        "end_date": "Still Working",
+        "designation": "Database Developer"
+    }
+]

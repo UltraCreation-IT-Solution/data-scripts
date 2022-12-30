@@ -1,0 +1,4702 @@
+[
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Delhi",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Delhi",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Delhi",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Delhi",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Agra",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Bombay",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Agra",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Bhopal",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Indore",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Delhi",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Tender High School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Tender High School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Indore",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Jabalpur",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Indore",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Fidato Technology",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Delhi",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Bhopal",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Mithi Govidram Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Pune",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Cybrom Technology",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Red Rose Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Pune",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Elite Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Christ Memorial Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "St Saviour Public High School",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BSS",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BSS",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2024",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Division": "First Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2016",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Jabalpur",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Google",
+            "city": "Bhopal",
+            "state_name": "Karnatka",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "BU",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Navnidh Higher Secondar School",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2023",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RGPV",
+            "city": "Bhopal",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "IBM",
+            "city": "Delhi",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2026",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2015",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2017",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2020",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Jabalpur",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Bombay",
+            "state_name": "Maharashtra",
+            "country": "India",
+            "passing_year": "2023",
+            "Devision": "Third division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2019",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2022",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "SIS Tech",
+            "city": "Pune",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Sunny Group Of Institues",
+            "city": "Bombay",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2025",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2012",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Boys Higher Secondary School",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2014",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2017",
+            "Division": "First Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Bombay",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "FSH Technologies",
+            "city": "Pune",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2020",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Public School",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Third division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "Excelence College Of Engineering",
+            "city": "Agra",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Second Division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Indore",
+            "state_name": "Madhya Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ],
+    [
+        {
+            "type": "High School",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2013",
+            "Division": "Third division"
+        },
+        {
+            "type": "Higher Scondry",
+            "institute_name": "Bhopal Girls Higher Secondary School",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2015",
+            "Devision": "First Division"
+        },
+        {
+            "type": "Graduation",
+            "institute_name": "RKDF",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2018",
+            "Division": "Second Division"
+        },
+        {
+            "type": "Post Graduation",
+            "institute_name": "RKDF",
+            "city": "Agra",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "Third division"
+        },
+        {
+            "type": "Certificate",
+            "institute_name": "Surya Institues",
+            "city": "Jabalpur",
+            "state_name": "Uttar Pradesh",
+            "country": "India",
+            "passing_year": "2021",
+            "Devision": "First Division"
+        }
+    ]
+]
