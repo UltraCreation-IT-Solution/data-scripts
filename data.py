@@ -1,8 +1,9 @@
 import json
 import random
 
-class Create_data:
-    def __init__(self,action=None):
+class CreateData:
+    def __init__(self, action=None, output_file_url=None):
+        self.output_file_url = output_file_url
         if action:
             action_mapper = {
                 1: self.create_profile_data
@@ -21,10 +22,10 @@ class Create_data:
                 
     def create_profile_data(self):
         self.final_data = []
-        with open("json_file/names.json","r",encoding="utf-8") as file:
+        with open("input_json_file/names.json","r",encoding="utf-8") as file:
             data = json.loads(file.read())
             print(data)
-            for f_name in data["male"]:
+            for f_name in data["female"]:
                 for surname in data["surnames"]:
                     first_name = f_name
                     last_name = surname
@@ -44,10 +45,14 @@ class Create_data:
             self.write_data()
 
     def write_data(self):
-        with open("json_file/profile.json", "w", encoding="utf-8") as file:
-            file.write(json.dumps(self.final_data[:100]))
+        if self.output_file_url:
+            with open(self.output_file_url, "w", encoding="utf-8") as file:
+                file.write(json.dumps(self.final_data[:100]))
+        else:
+            print("please enter the output file url")
                 
         
+output_file_url = str(input("Enter The Output File URL:"))
+action = int(input("Please Enter The Action:"))
 
-
-ob = Create_data(action=1)
+ob = CreateData(action=action, output_file_url=output_file_url)
