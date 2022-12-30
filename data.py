@@ -1,8 +1,8 @@
 import json
 import random
 
-class Create_data():
-    def __init__(self,action):
+class Create_data:
+    def __init__(self,action=None):
         if action:
             action_mapper = {
                 1: self.create_profile_data
