@@ -44,7 +44,7 @@ class Create_data:
             self.write_data()
 
     def write_data(self):
-        with open("json_file/profile2.json", "w", encoding="utf-8") as file:
+        with open("json_file/profile.json", "w", encoding="utf-8") as file:
             file.write(json.dumps(self.final_data[:100]))
                 
         
